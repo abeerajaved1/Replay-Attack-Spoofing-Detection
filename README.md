@@ -27,7 +27,7 @@ Bashpip install -r requirements.txt
 
 Download Models (Important - files are large):
 Go to this Google Drive folder
-(https://drive.google.com/drive/folders/1VjP9Wqax3Jdj4MrbJFRqWhEfx7Nle79j)
+https://drive.google.com/drive/folders/1VjP9Wqax3Jdj4MrbJFRqWhEfx7Nle79j
 Download these two files:
 fixed_spoofing_model.keras ← Recommended
 best_spoofing_model.h5
