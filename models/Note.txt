@@ -1,0 +1,14 @@
+The trained models are too large to upload directly to GitHub.
+
+Download Link:
+https://drive.google.com/drive/folders/1VjP9Wqax3Jdj4MrbJFRqWhEfx7Nle79j
+
+→ Please request access if needed. I usually approve within a few hours.
+
+Files to download:
+1. fixed_spoofing_model.keras     ← Recommended (fixed input shape)
+2. best_spoofing_model.h5         ← Best training checkpoint
+
+After downloading, place both files in this 'models/' folder.
+
+Trained by Abeera Javed
